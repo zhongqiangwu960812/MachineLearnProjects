@@ -4,7 +4,7 @@
 > 主要项目如下：
 >> * [鸢尾花数据集分类](https://github.com/zhongqiangwu960812/MachineLearnProjects/tree/master/IrisFlowerClassification)
 >> * [波斯顿房价预测](https://github.com/zhongqiangwu960812/MachineLearnProjects/tree/master/BostonHousePriceRegression)
->> * 金属岩石分类
+>> * [金属岩石分类](https://github.com/zhongqiangwu960812/MachineLearnProjects/tree/master/MinesRocksClassification)
 >> * 文本数据分类
 >> * 基于wine数据集的聚类算法
 >> * 基于机器学习方法泰坦尼克号的存活预测
