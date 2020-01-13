@@ -8,7 +8,7 @@
 >> * 文本数据分类
 >> * 基于wine数据集的聚类算法
 >> * 基于机器学习方法泰坦尼克号的存活预测
->> * 基于BP神经网络的手写数字识别
+>> * [基于BP神经网络的手写数字识别](https://github.com/zhongqiangwu960812/MachineLearnProjects/tree/master/MinistClassificationBasedBPNetWork)
 >> * 机器学习实战
 >>> * KNN进行约会网站的人员分类、KNN进行手写数字识别
 >>> * 决策树进行隐形眼镜的分类
