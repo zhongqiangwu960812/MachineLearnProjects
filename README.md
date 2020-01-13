@@ -15,5 +15,6 @@
 >>> * [朴素贝叶斯进行垃圾邮件的过滤](https://github.com/zhongqiangwu960812/MachineLearnProjects/tree/master/MachineLearningInAction/NaiveBayes)
 >> * [异常值检测（这个项目是来源于真实数据集）](https://github.com/zhongqiangwu960812/MachineLearnProjects/tree/master/OutlierDetection)
 <br>
-> 
+>
+>
 数据集的主要来源： [UCI机器学习仓库](http://archive.ics.uci.edu/ml/datasets)
