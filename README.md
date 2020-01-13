@@ -3,7 +3,7 @@
 >
 > 主要项目如下：
 >> * 鸢尾花数据集分类
->> * 波斯顿房价预测
+>> * [波斯顿房价预测](https://github.com/zhongqiangwu960812/MachineLearnProjects/tree/master/BostonHousePriceRegression)
 >> * 金属岩石分类
 >> * 文本数据分类
 >> * 基于wine数据集的聚类算法
