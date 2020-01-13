@@ -2,7 +2,7 @@
 > 通过一些简单的机器学习项目练习编程实践能力，快速掌握机器学习算法
 >
 > 主要项目如下：
->> * 鸢尾花数据集分类
+>> * [鸢尾花数据集分类](https://github.com/zhongqiangwu960812/MachineLearnProjects/tree/master/IrisFlowerClassification)
 >> * [波斯顿房价预测](https://github.com/zhongqiangwu960812/MachineLearnProjects/tree/master/BostonHousePriceRegression)
 >> * 金属岩石分类
 >> * 文本数据分类
